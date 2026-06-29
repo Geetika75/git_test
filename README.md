@@ -6,5 +6,6 @@
 ### after edit, to stage the files - git add .
 ### to commit - git commit -m "msg"
 ### to push - git push
-### git remove -v
+### git remote -v
 ### git status
+### git log
